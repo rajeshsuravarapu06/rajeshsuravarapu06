@@ -27,12 +27,9 @@
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
-### 📦 Primary Stack
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<a href="https://github.com/rajeshsuravarapu06">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight&langs_count=5&hide=html,javascript" />
+</a>
 
 
 ---
