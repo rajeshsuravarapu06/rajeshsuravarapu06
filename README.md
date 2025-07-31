@@ -47,13 +47,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-    <a href="https://github.com/rajeshsuravarapu06">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=radical" height="170" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=radical" height="170"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsuravarapu06&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
