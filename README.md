@@ -3,9 +3,11 @@
   Hi, I'm <span style="color:#007ACC;">Rajesh Suravarapu</span> – DevOps | Cloud | SRE
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Cloud+%7C+DevOps+%7C+SRE+Engineer;Terraform+%26+YAML+Automation+Specialist;AWS+%7C+GCP+%7C+CI%2FCD+%7C+Vault+%7C+Helm;Automate+Everything+%F0%9F%9A%80;Secure+By+Design+%F0%9F%94%92;Deliver+Faster+%E2%9C%85" />
-</p>
+### 🔧 Most Used Languages (Manually Highlighted)
+
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
 
 ---
 
