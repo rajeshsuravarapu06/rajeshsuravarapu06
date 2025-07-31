@@ -50,12 +50,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="400" alt="Rajesh's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsuravarapu06&theme=github-dark&hide_border=true" width="400" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="410" alt="Rajesh's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=blue&style=flat-square" alt="Rajesh's Profile Views"/>
 </p>
 
 ---
