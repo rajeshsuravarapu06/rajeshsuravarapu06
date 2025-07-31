@@ -100,7 +100,18 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
   </a>
 </p>
 
-![Streak](https://img.shields.io/badge/GitHub-Contribution%20Streak-informational?style=flat&logo=github&logoColor=white)
+
+<p align="center">
+  <a href="https://github.com/rajeshsuravarapu06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshsuravarapu06&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Contribution%20Streak-informational?style=flat&logo=github&logoColor=white" alt="GitHub Contribution Streak Badge"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat-square" />
