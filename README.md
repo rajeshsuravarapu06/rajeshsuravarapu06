@@ -95,9 +95,6 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
   <a href="https://github.com/rajeshsuravarapu06">
     <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" height="170"/>
   </a>
-  <a href="https://github.com/rajeshsuravarapu06">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight" height="170"/>
-  </a>
 </p>
 
 
