@@ -3,10 +3,9 @@
   Hi, I'm <span style="color:#007ACC;">Rajesh Suravarapu</span> – DevOps | Cloud | SRE
 </h1>
 
-### 🔧 Most Used Languages (Manually Highlighted)
-
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+<a href="https://github.com/rajeshsuravarapu06">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight&langs_count=5&hide=html,javascript" />
+</a>
 
 
 ---
