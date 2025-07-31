@@ -1,73 +1,78 @@
 <h1 align="center">
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30"/> 
-    <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hey there! I'm Rajesh Suravarapu</span> 🚀
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30" /> 
+  Hi, I'm <span style="color:#007ACC;">Rajesh Suravarapu</span> – DevOps | Cloud | SRE
 </h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automate+Everything.;Build+Resilient+Cloud+Infra.;Secure+By+Design.;Deliver+Faster." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Cloud+%7C+DevOps+%7C+SRE+Engineer;AWS+%7C+GCP+%7C+Terraform+%7C+CI%2FCD;Automate+Everything+%F0%9F%9A%80;Secure+By+Design+%F0%9F%94%92;Deliver+Faster+%E2%9C%85" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💼 About Me
 
-- 🌐 **Cloud & DevOps Engineer** with 7+ years of hands-on experience  
-- ☁️ Specializing in **AWS**, **GCP**, **Terraform**, **CI/CD**, and **SRE**  
-- 🛠️ Passionate about automation, operational excellence, and building reliable infrastructure  
-- 🧠 Always exploring better ways to scale cloud-native solutions  
-- 🧰 AWS Certified Solutions Architect – Associate  
+🔧 Cloud & DevOps Engineer with 7+ years of experience designing and deploying cloud-native infrastructure on AWS and GCP.  
+🌐 Focused on Infrastructure as Code, CI/CD, Container Orchestration, and Site Reliability Engineering.  
+📍 Based in Hyderabad, India  
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
 
+**☁️ Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-54C236?style=flat&logo=pagerduty&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
+
+**🧱 Infrastructure as Code:**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+
+**🐳 Containers & Orchestration:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
+
+**🔁 CI/CD & Automation:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+
+**📊 Monitoring & Ops:**  
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws)
+![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=flat&logo=newrelic)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-54C236?style=flat&logo=pagerduty)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-- ✅ AWS VPC Infrastructure with **Terraform** (multi-account ready)
-- ✅ GitHub Actions CI/CD pipelines for containerized apps
-- ✅ Kubernetes Helm charts for multi-tenant workloads
-- ✅ Infrastructure monitoring via **CloudWatch** + **PagerDuty**
+- 🔧 Terraform modules for multi-account AWS architecture  
+- 🚀 GitHub Actions pipelines for containerized microservices  
+- ☸️ Kubernetes deployment using Helm & GitOps  
+- 🛡️ Secure VPC designs with NACLs, SGs, and IAM best practices  
 
-> 💡 _Check my repositories for detailed code examples and use cases._
+> Visit my repositories for real-world code examples and reusable templates.
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="410" alt="Rajesh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=dark&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=blue&style=flat-square" alt="Rajesh's Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect & Collaborate
+## 🤝 Let's Connect!
 
-- 💬 Always open to discussions on cloud architecture, DevOps tools, and best practices
-- 📫 Reach out via:
-  - ✉️ [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
-  - 🔗 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+- 🔗 [LinkedIn: Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+- 📫 Email: [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
 
 ---
 
-<p align="center">
-    <b>✨ "Automate everything, secure by design, and deliver faster." ✨</b>
-</p>
+<p align="center"><i>"Automate everything. Secure by design. Deliver faster."</i></p>
