@@ -3,10 +3,9 @@
   Hi, I'm <span style="color:#007ACC;">Rajesh Suravarapu</span> – DevOps | Cloud | SRE
 </h1>
 
-<a href="https://github.com/rajeshsuravarapu06">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight&langs_count=5&hide=html,javascript" />
-</a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Cloud+%7C+DevOps+%7C+SRE+Engineer;Terraform+%26+YAML+Automation+Specialist;AWS+%7C+GCP+%7C+CI%2FCD+%7C+Vault+%7C+Helm;Automate+Everything+%F0%9F%9A%80;Secure+By+Design+%F0%9F%94%92;Deliver+Faster+%E2%9C%85" />
+</p>
 
 ---
 
@@ -28,11 +27,13 @@
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
-<p align="center">
-  <a href="https://github.com/rajeshsuravarapu06">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=radical" />
-  </a>
-</p>
+### 📦 Primary Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
 
 ---
 
