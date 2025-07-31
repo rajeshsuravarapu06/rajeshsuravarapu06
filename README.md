@@ -22,7 +22,14 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 🔹 Secure secrets management with Vault integration
 
-🔹 Over $95K in annual cloud cost savings through rightsizing and automation
+🔹** Over $95K in annual cloud cost savings through rightsizing and automation**
+---
+
+## 🤝 Let’s Connect!
+
+- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+- 📫 [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -53,25 +60,24 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 ### 🔐 Security & Governance
 
-- ✅ **IAM Policies** & **Role-Based Access Control**  ![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white)
-- 🔐 **Secrets Management** using **HashiCorp Vault**  ![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white)
-- 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools  ![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white)
----
-
-## 🧪 Featured Projects
-
-- 🚀 **AWS Landing Zone** using CloudFormation – scalable across 60+ accounts  
-- 🔁 CI/CD automation using GitHub Actions and Jenkins – 60% faster deployments  
-- 💸 AWS cost optimization playbook – saved $95K+ annually  
-- 🔐 Integrated HashiCorp Vault for secrets rotation & policy control  
-- ☸️ Helm-based Kubernetes deployments for microservices  
-- 📊 Centralized logging stack with CloudWatch, ELK, and custom dashboards  
-
-> Visit my repositories to explore real-world DevOps modules and reusable cloud components.
+![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white) - ✅ **IAM Policies** & **Role-Based Access Control**
+![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white) - 🔐 **Secrets Management** using **HashiCorp Vault**  
+![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white) - 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools  
 
 ---
 
-## 🏆 Certifications
+🧪 Featured Projects:
+
+🚀 AWS Landing Zone: Designed and deployed a scalable AWS Landing Zone using CloudFormation, enabling centralized control, governance, and cross-account scalability for over 60 AWS accounts.
+🔁 CI/CD Automation Framework: Engineered reusable CI/CD pipelines with GitHub Actions and Jenkins, reducing deployment time by 60% and improving pipeline consistency across environments.
+💸 Cloud Cost Optimization: Created a cost-optimization playbook focused on rightsizing, automation, and schedule-based scaling, delivering annual savings of over $95K.
+🔐 Secrets Management with Vault: Integrated HashiCorp Vault with IAM and pipelines to enable secure secrets rotation, policy enforcement, and audit logging.
+☸️ Helm-based Kubernetes Deployment: Automated deployment of microservices using Helm, custom charts, and GitOps practices for resilient, scalable container workloads.
+📊 Centralized Logging & Monitoring: Built a robust observability solution using CloudWatch, ELK, and custom dashboards, enabling real-time insights and reduced MTTR.
+
+---
+
+🏆 Certifications
 
 - ✅ **AWS Certified Solutions Architect – Associate**  
 - ✅ **AWS Certified Solutions Architect – Professional**  
@@ -82,19 +88,23 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=dark&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats" width="420" />
+  <a href="https://github.com/rajeshsuravarapu06">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" height="170"/>
+  </a>
+  <a href="https://github.com/rajeshsuravarapu06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight" height="170"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/rajeshsuravarapu06">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsuravarapu06&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
+  </a>
 </p>
 
----
-
-## 🤝 Let’s Connect!
-
-- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
-- 📫 [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
