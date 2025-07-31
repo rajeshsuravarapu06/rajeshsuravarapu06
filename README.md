@@ -51,10 +51,11 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-54C236?style=flat&logo=pagerduty)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
-**🔐 Security & Governance:**  
-✅ IAM Policies & Role-Based Access  
-✅ Secrets Management with HashiCorp Vault  
-✅ AWS Config, CloudTrail, and Compliance Alerts
+### 🔐 Security & Governance
+
+- ✅ **IAM Policies** & **Role-Based Access Control**
+- 🔐 **Secrets Management** using **HashiCorp Vault**
+- 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools
 
 ---
 
