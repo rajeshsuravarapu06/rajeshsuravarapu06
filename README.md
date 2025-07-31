@@ -26,13 +26,6 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 ---
 
-## 🤝 Let’s Connect!
-
-- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
-- 📫 [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
-
----
-
 ## 🛠️ Skills & Technologies
 
 **☁️ Cloud Platforms:**  
@@ -67,14 +60,24 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 ---
 
-🧪 Featured Projects:
+🧪 Featured Projects
+🚀 Enterprise AWS Landing Zone
+    Designed scalable, production-ready landing zones using CloudFormation — deployed across 60+ AWS accounts with centralized controls.
 
-🚀 AWS Landing Zone: Designed and deployed a scalable AWS Landing Zone using CloudFormation, enabling centralized control, governance, and cross-account scalability for over 60 AWS accounts.
-🔁 CI/CD Automation Framework: Engineered reusable CI/CD pipelines with GitHub Actions and Jenkins, reducing deployment time by 60% and improving pipeline consistency across environments.
-💸 Cloud Cost Optimization: Created a cost-optimization playbook focused on rightsizing, automation, and schedule-based scaling, delivering annual savings of over $95K.
-🔐 Secrets Management with Vault: Integrated HashiCorp Vault with IAM and pipelines to enable secure secrets rotation, policy enforcement, and audit logging.
-☸️ Helm-based Kubernetes Deployment: Automated deployment of microservices using Helm, custom charts, and GitOps practices for resilient, scalable container workloads.
-📊 Centralized Logging & Monitoring: Built a robust observability solution using CloudWatch, ELK, and custom dashboards, enabling real-time insights and reduced MTTR.
+🔁 CI/CD Automation Framework
+    Built reusable pipelines using GitHub Actions and Jenkins, reducing deployment time by 60% and standardizing workflows across teams.
+
+💸 Cloud Cost Optimization Playbook
+    Achieved $95K+ in annual savings by implementing resource rightsizing, automation, and continuous usage analysis.
+
+🔐 Secrets Management with HashiCorp Vault
+    Integrated Vault with IAM and CI/CD pipelines to enable secure secrets rotation, lease management, and audit logging.
+
+☸️ Kubernetes with Helm for Microservices
+    Automated deployment and scaling of containerized applications using Helm, with custom charts and GitOps integration.
+
+📊 Centralized Logging & Observability Stack
+    Implemented a robust monitoring setup using CloudWatch, ELK, and custom dashboards for proactive incident detection and SRE workflows.
 
 ---
 
@@ -106,6 +109,13 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
+
+---
+
+## 🤝 Let’s Connect!
+
+- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+- 📫 [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
 
 ---
 
