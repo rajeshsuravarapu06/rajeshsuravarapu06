@@ -23,6 +23,7 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 🔹 Secure secrets management with Vault integration
 
 🔹** Over $95K in annual cloud cost savings through rightsizing and automation**
+
 ---
 
 ## 🤝 Let’s Connect!
