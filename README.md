@@ -13,7 +13,7 @@
 
 🔧 Cloud & DevOps Engineer with 7+ years of experience designing and deploying cloud-native infrastructure on AWS and GCP.  
 🌐 Focused on Infrastructure as Code, CI/CD, Container Orchestration, and Site Reliability Engineering.  
-📍 Based in Hyderabad, India  
+
 
 ---
 
