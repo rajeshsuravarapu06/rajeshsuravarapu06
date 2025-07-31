@@ -4,114 +4,73 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Cloud+%7C+DevOps+%7C+SRE+Engineer;AWS+%7C+GCP+%7C+Terraform+%7C+CI%2FCD;AWS+Landing+Zones+%26+Terraform+Expert;Automate+Everything+%F0%9F%9A%80;Secure+By+Design+%F0%9F%94%92;Deliver+Faster+%E2%9C%85" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Cloud+%7C+DevOps+%7C+SRE+Engineer;Terraform+%26+YAML+Automation+Specialist;AWS+%7C+GCP+%7C+CI%2FCD+%7C+Vault+%7C+Helm;Automate+Everything+%F0%9F%9A%80;Secure+By+Design+%F0%9F%94%92;Deliver+Faster+%E2%9C%85" />
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
 
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform)
+![YAML](https://img.shields.io/badge/YAML-Workflow-blue?style=flat&logo=yaml&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab)
-![Vault](https://img.shields.io/badge/-Vault-000000?style=flat&logo=vault)
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat&logo=amazonaws)
-![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=newrelic)
-![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elasticstack)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+![Vault](https://img.shields.io/badge/Vault-Secrets_Management-000000?style=flat&logo=vault)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF9900?style=flat&logo=amazonaws)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
 <p align="center">
-    <a href="https://github.com/rajeshsuravarapu06">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=radical" />
-    </a>
+  <a href="https://github.com/rajeshsuravarapu06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=radical" />
+  </a>
 </p>
-
 
 ---
 
 ## 🧑‍💼 About Me
 
-👨‍💻 About Me
-I'm a seasoned Cloud & DevOps Engineer with over 7+ years of experience designing, implementing, and managing secure, scalable, and cost-efficient cloud infrastructures—primarily on AWS. My expertise spans Infrastructure as Code (IaC), CI/CD automation, and cloud-native architecture, with a proven ability to enhance system reliability, optimize costs, and streamline delivery pipelines.
+I'm a seasoned **Cloud & DevOps Engineer** with over 7 years of experience designing, implementing, and managing secure, scalable, and cost-efficient cloud infrastructures—primarily on **AWS**. My expertise spans **Terraform**, **YAML automation**, **CI/CD pipelines**, and **cloud-native architecture**.
 
-I’ve successfully contributed to complex, enterprise-scale initiatives at organizations like GE Appliances, MassMutual, and Optum, where I delivered:
-
-🔹 Enterprise-grade AWS Landing Zones deployed across 60+ accounts, with centralized governance and automation
-
-🔹 CI/CD pipelines using GitHub Actions and Jenkins, enabling faster and more reliable application delivery
-
-🔹 Secrets management solutions through HashiCorp Vault, strengthening security and compliance
-
-🔹 Significant cloud cost reductions through resource rightsizing and operational automation
+At **GE Appliances**, **MassMutual**, and **Optum**, I delivered:
+- 🔹 **AWS Landing Zones** across 60+ accounts with centralized governance  
+- 🔹 End-to-end **CI/CD pipelines** using GitHub Actions and Jenkins  
+- 🔹 Secure **Vault-based secrets management** integrated with IAM  
+- 🔹 Measurable **cloud cost optimizations** via automation and rightsizing  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧪 Featured Projects
 
-**☁️ Cloud Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+- 🚀 **AWS Landing Zone Infrastructure**  
+  Built reusable CloudFormation modules to deploy Landing Zones across multiple accounts.
 
-**📦 Infrastructure as Code (IaC):**  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws)
+- 🔁 **CI/CD Automation Framework**  
+  GitHub Actions & Jenkins pipelines built in **YAML** to standardize and accelerate deployments.
 
-**🐳 Containers & Orchestration:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
+- ☁️ **Terraform Infrastructure Modules**  
+  Modularized AWS VPC, IAM, S3, and EKS stacks for cross-account provisioning.
 
-**🔁 CI/CD & Automation:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+- 🔐 **Secrets Management**  
+  HashiCorp Vault integrated with CI/CD pipelines for secure credential delivery and rotation.
 
-**📈 Monitoring & Incident Management:**  
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws)
-![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=flat&logo=newrelic)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-54C236?style=flat&logo=pagerduty)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
-
-### 🔐 Security & Governance
-
-![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white) 
-![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white) 
-![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white) 
+- 📊 **Observability Stack**  
+  CloudWatch + ELK + New Relic dashboards for production-grade visibility and proactive alerts.
 
 ---
 
-🧪 Featured Projects
-🚀 Enterprise AWS Landing Zone
-    Designed scalable, production-ready landing zones using CloudFormation — deployed across 60+ AWS accounts with centralized controls.
+## 🏆 Certifications
 
-🔁 CI/CD Automation Framework
-    Built reusable pipelines using GitHub Actions and Jenkins, reducing deployment time by 60% and standardizing workflows across teams.
-
-💸 Cloud Cost Optimization Playbook
-    Achieved $95K+ in annual savings by implementing resource rightsizing, automation, and continuous usage analysis.
-
-🔐 Secrets Management with HashiCorp Vault
-    Integrated Vault with IAM and CI/CD pipelines to enable secure secrets rotation, lease management, and audit logging.
-
-☸️ Kubernetes with Helm for Microservices
-    Automated deployment and scaling of containerized applications using Helm, with custom charts and GitOps integration.
-
-📊 Centralized Logging & Observability Stack
-    Implemented a robust monitoring setup using CloudWatch, ELK, and custom dashboards for proactive incident detection and SRE workflows.
-
----
-
-🏆 Certifications
-
-- ✅ **AWS Certified Solutions Architect – Associate**  
-- ✅ **AWS Certified Solutions Architect – Professional**  
-- ✅ **GCP Associate Cloud Engineer**  
+[![AWS SAA](https://img.shields.io/badge/AWS%20Certified-SAA-orange?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  
+[![AWS SAP](https://img.shields.io/badge/AWS%20Certified-SAP--Pro-darkgreen?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)  
+[![GCP ACE](https://img.shields.io/badge/GCP%20Certified-Associate%20Cloud%20Engineer-blue?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-engineer)
 
 ---
 
@@ -123,11 +82,9 @@ I’ve successfully contributed to complex, enterprise-scale initiatives at orga
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Contribution%20Streak-informational?style=flat&logo=github&logoColor=white" alt="GitHub Contribution Streak Badge"/>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -137,11 +94,12 @@ I’ve successfully contributed to complex, enterprise-scale initiatives at orga
 
 ### 🤝 Reach Out for Collaboration
 
-- 💡 Working on something exciting in cloud, infra, or DevOps? Let's collaborate! 
-
-- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+- 💡 Have an exciting project in **cloud, DevOps, or automation**? Let's collaborate!
+- 💼 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)  
 - 📫 [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
 
 ---
-© 2025 Rajesh Suravarapu
+
 <p align="center"><i>"Automate everything. Secure by design. Deliver faster."</i></p>
+
+© 2025 Rajesh Suravarapu
