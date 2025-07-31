@@ -54,9 +54,9 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 ### 🔐 Security & Governance
 
-![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white) - ✅ **IAM Policies** & **Role-Based Access Control**
-![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white) - 🔐 **Secrets Management** using **HashiCorp Vault**  
-![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white) - 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools  
+![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white) 
+![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white) 
+![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white) 
 
 ---
 
@@ -100,11 +100,7 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rajeshsuravarapu06">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsuravarapu06&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
-  </a>
-</p>
+![Streak](https://img.shields.io/badge/GitHub-Contribution%20Streak-informational?style=flat&logo=github&logoColor=white)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshsuravarapu06&label=Profile%20Views&color=0e75b6&style=flat-square" />
