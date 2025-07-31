@@ -11,14 +11,17 @@
 
 ## 🧑‍💼 About Me
 
-Cloud & DevOps Engineer with 7+ years of proven expertise in designing, deploying, and managing **secure, scalable, cost-efficient cloud environments**, primarily on **AWS**. I focus on **automation, infrastructure as code**, and **CI/CD**, with measurable results in reducing downtime, accelerating release cycles, and improving security posture.
+Cloud & DevOps Engineer with over 7 years of experience architecting, implementing, and managing secure, scalable, and cost-optimized cloud infrastructures — primarily on AWS. I specialize in automation, Infrastructure as Code (IaC), and CI/CD, with a strong track record of enhancing system reliability, accelerating release cycles, and strengthening security posture.
 
-I’ve worked in cross-functional teams across **GE Appliances, MassMutual**, and **Optum**, implementing solutions like:
-- Scalable AWS Landing Zones for 60+ accounts
-- Automated CI/CD with GitHub Actions and Jenkins
-- Secure vault integrations for secrets management
-- Cloud cost savings of over **$95K annually**
+I've contributed to large-scale, cross-functional initiatives at GE Appliances, MassMutual, and Optum, delivering:
 
+🔹 Enterprise-grade AWS Landing Zones across 60+ accounts
+
+🔹 End-to-end CI/CD automation using GitHub Actions and Jenkins
+
+🔹 Secure secrets management with Vault integration
+
+🔹 Over $95K in annual cloud cost savings through rightsizing and automation
 ---
 
 ## 🛠️ Skills & Technologies
