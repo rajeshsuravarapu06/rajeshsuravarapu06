@@ -27,9 +27,6 @@
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack)
 
-<a href="https://github.com/rajeshsuravarapu06">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight&langs_count=5&hide=html,javascript" />
-</a>
 
 ### 📦 Most Used Languages
 
