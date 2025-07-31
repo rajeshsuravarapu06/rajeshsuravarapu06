@@ -15,7 +15,6 @@
 - ☁️ Specializing in **AWS**, **GCP**, **Terraform**, **CI/CD**, and **SRE**  
 - 🛠️ Passionate about automation, operational excellence, and building reliable infrastructure  
 - 🧠 Always exploring better ways to scale cloud-native solutions  
-- 📍 Based in Hyderabad, India  
 - 🧰 AWS Certified Solutions Architect – Associate  
 
 ---
@@ -51,9 +50,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/rajeshsuravarapu">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu&show_icons=true&theme=radical" height="170" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu&layout=compact&theme=radical" height="170"/>
+    <a href="https://github.com/rajeshsuravarapu06">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu06&show_icons=true&theme=radical" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=radical" height="170"/>
     </a>
 </p>
 
