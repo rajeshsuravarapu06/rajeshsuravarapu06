@@ -53,10 +53,9 @@ I've contributed to large-scale, cross-functional initiatives at GE Appliances, 
 
 ### 🔐 Security & Governance
 
-- ✅ **IAM Policies** & **Role-Based Access Control**
-- 🔐 **Secrets Management** using **HashiCorp Vault**
-- 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools
-
+- ✅ **IAM Policies** & **Role-Based Access Control**  ![IAM](https://img.shields.io/badge/IAM-Role%20Based%20Access-blue?style=flat&logo=amazonaws&logoColor=white)
+- 🔐 **Secrets Management** using **HashiCorp Vault**  ![Vault](https://img.shields.io/badge/Vault-Secrets%20Management-orange?style=flat&logo=hashicorp&logoColor=white)
+- 📊 **Compliance Auditing** via **AWS Config**, **CloudTrail**, and Alerting Tools  ![Compliance](https://img.shields.io/badge/Compliance-CloudTrail%20%26%20AWS%20Config-green?style=flat&logo=amazonaws&logoColor=white)
 ---
 
 ## 🧪 Featured Projects
