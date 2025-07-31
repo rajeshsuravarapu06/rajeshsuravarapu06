@@ -31,6 +31,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu06&layout=compact&theme=tokyonight&langs_count=5&hide=html,javascript" />
 </a>
 
+### 📦 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/HCL-Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
 
 ---
 
