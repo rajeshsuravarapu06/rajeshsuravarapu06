@@ -1,85 +1,73 @@
-# 👋 Hi, I'm Rajesh Suravarapu
+<h1 align="center">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30"/> 
+    <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"> Hey there! I'm Rajesh Suravarapu</span> 🚀
+</h1>
 
-🎯 **Cloud & DevOps Engineer | SRE | AWS | GCP | Terraform | CI/CD | Networking**  
-
- 📧 rajeshsuravarapu6@gmail.com    🌐 [LinkedIn](https://www.linkedin.com/in/rajesh-suravarapu)
-
----
-
-## 🚀 About Me
-
-I’m a dynamic and results-driven **Cloud & DevOps Engineer** with over **7+ years of experience** designing, automating, and managing scalable cloud environments — primarily on **AWS&GCP**.
-
-I specialize in:
-- ✅ Infrastructure as Code (IaC) using **Terraform** and **CloudFormation**
-- ✅ CI/CD automation with tools like **GitHub Actions**, **GitLab CI**, and **Jenkins**
-- ✅ Containerization using **Docker** and orchestration with **Kubernetes**
-- ✅ Cloud-native security, networking, and monitoring
-
-With a strong foundation in **Site Reliability Engineering (SRE)** principles, I focus on reliability, scalability, and performance optimization across cloud platforms.
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automate+Everything.;Build+Resilient+Cloud+Infra.;Secure+By+Design.;Deliver+Faster." />
+</p>
 
 ---
 
-## 🧰 Skills & Technologies
+### 👨‍💻 About Me
 
-**☁️ Cloud Platforms**  
-- AWS (Certified Solutions Architect – Associate)  
-- Google Cloud Platform (GCP)
-
-**🛠 Infrastructure as Code**  
-- Terraform  
-- AWS CloudFormation  
-
-**🐳 Containers & Orchestration**  
-- Docker  
-- Kubernetes  
-- Helm  
-
-**🔁 CI/CD & Automation**  
-- GitHub Actions  
-- GitLab CI/CD  
-- Jenkins  
-
-**📊 Monitoring & Logging**  
-- CloudWatch  
-- New Relic  
-- PagerDuty  
-- ELK Stack  
-
-**🔐 Security & Networking**  
-- VPC, Subnets, NACLs, Route Tables  
-- IAM Policies, Security Groups  
-- SSL/TLS, Key Management  
+- 🌐 **Cloud & DevOps Engineer** with 7+ years of hands-on experience  
+- ☁️ Specializing in **AWS**, **GCP**, **Terraform**, **CI/CD**, and **SRE**  
+- 🛠️ Passionate about automation, operational excellence, and building reliable infrastructure  
+- 🧠 Always exploring better ways to scale cloud-native solutions  
+- 📍 Based in Hyderabad, India  
+- 🧰 AWS Certified Solutions Architect – Associate  
 
 ---
 
-## 🧪 Featured Projects
+### 🛠️ Languages & Tools
 
-Explore my GitHub repositories to see hands-on work in:
-
-- 🚀 **Terraform-based AWS Infrastructure** for production environments  
-- ⚙️ **CI/CD pipelines** for containerized microservices  
-- ☸️ **Kubernetes deployments** with Helm & GitOps patterns  
-- 🌍 **Multi-cloud and hybrid deployments**
-
-> ⭐ _More projects and blog posts coming soon!_
-
----
-
-## 🎯 Career Goals
-
-I aim to contribute to mission-critical, scalable systems and work with cross-functional teams on next-gen cloud platforms. I’m always exploring better ways to:
-- Automate and optimize infrastructure
-- Improve system reliability and observability
-- Stay aligned with DevOps and SRE best practices
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-54C236?style=flat&logo=pagerduty&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+### 📂 Featured Projects
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rajesh-suravarapu)  
-- 📧 rajeshsuravarapu6@gmail.com  
+- ✅ AWS VPC Infrastructure with **Terraform** (multi-account ready)
+- ✅ GitHub Actions CI/CD pipelines for containerized apps
+- ✅ Kubernetes Helm charts for multi-tenant workloads
+- ✅ Infrastructure monitoring via **CloudWatch** + **PagerDuty**
+
+> 💡 _Check my repositories for detailed code examples and use cases._
 
 ---
 
-> ✨ _"Automate everything, secure by design, and deliver faster."_
+### 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/rajeshsuravarapu">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajeshsuravarapu&show_icons=true&theme=radical" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsuravarapu&layout=compact&theme=radical" height="170"/>
+    </a>
+</p>
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+
+- 💬 Always open to discussions on cloud architecture, DevOps tools, and best practices
+- 📫 Reach out via:
+  - ✉️ [rajeshsuravarapu6@gmail.com](mailto:rajeshsuravarapu6@gmail.com)
+  - 🔗 [LinkedIn – Rajesh Suravarapu](https://www.linkedin.com/in/rajesh-suravarapu)
+
+---
+
+<p align="center">
+    <b>✨ "Automate everything, secure by design, and deliver faster." ✨</b>
+</p>
