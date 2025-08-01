@@ -95,10 +95,11 @@ At **GE Appliances**, **MassMutual**, and **Optum**, I delivered:
 
 ---
 
-### 🤝 Reach Out for Collaboration
+🤝 Let's Connect & Collaborate
 
-- 💡 Have an exciting project in **cloud, DevOps, or automation**? Let's collaborate!
-**- 💼 Reach out to me via [LinkedIn](https://www.linkedin.com/in/rajesh-suravarapu/) or 📫 [Email](mailto:rajeshsuravarapu6@gmail.com)**
+💡 Got something exciting in Cloud, DevOps, or Automation? I’d love to hear about it!
+
+💼 Reach out via [LinkedIn](https://www.linkedin.com/in/rajesh-suravarapu/) or 📫 [Email](mailto:rajeshsuravarapu6@gmail.com) — let’s build something great together.
 
 ---
 
