@@ -43,6 +43,7 @@
 I'm a seasoned **Cloud & DevOps Engineer** with over 7 years of experience designing, implementing, and managing secure, scalable, and cost-efficient cloud infrastructures—primarily on **AWS**. My expertise spans **Terraform**, **YAML automation**, **CI/CD pipelines**, and **cloud-native architecture**.
 
 At **GE Appliances**, **MassMutual**, and **Optum**, I delivered:
+
  🔹 **AWS Landing Zones** across 60+ accounts with centralized governance  
  🔹 End-to-end **CI/CD pipelines** using GitHub Actions and Jenkins  
  🔹 Secure **Vault-based secrets management** integrated with IAM  
